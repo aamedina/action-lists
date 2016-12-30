@@ -8,6 +8,8 @@ Clojure port of LispWorks Action Lists.
 
 See [LispWorks Action List Documentation](http://www.lispworks.com/documentation/lw70/LW/html/lw-49.htm)
 
+Note: The only standard action lists provided by this library are "Clojure startup" and "Clojure shutdown".
+
 ## Contributing
 
 Accepting pull requests for tests if you are so inclined to contribute.
