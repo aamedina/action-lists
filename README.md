@@ -4,9 +4,9 @@ Clojure port of LispWorks Action Lists.
    
 ## Usage
 
-[![Clojars Project](https://img.shields.io/clojars/v/action-lists.svg)]
+![Clojars Project](https://img.shields.io/clojars/v/action-lists.svg)
 
-See [LispWorks Action List Documentation]: http://www.lispworks.com/documentation/lw70/LW/html/lw-49.htm
+See [LispWorks Action List Documentation](http://www.lispworks.com/documentation/lw70/LW/html/lw-49.htm)
 
 ## Contributing
 
