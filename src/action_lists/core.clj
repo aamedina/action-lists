@@ -82,8 +82,8 @@
 
 (defn- warn
   "Prints a warning message to *err*."
-  [message]
-  (println (str "WARNING: " message)))
+  [key message]
+  (println (str "WARNING: " key " " message)))
 
 (defn- redefine-existing-action-list
   [action-lists name action-list]
