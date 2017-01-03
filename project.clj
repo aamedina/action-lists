@@ -1,4 +1,4 @@
-(defproject action-lists "1.0.0"
+(defproject action-lists "1.0.1"
   :description "Clojure port of LispWorks Action Lists."
   :url "https://github.com/aamedina/action-lists"
   :license {:name "MIT"}
